@@ -1,6 +1,5 @@
 {
     "java.configuration.updateBuildConfiguration": "automatic",
     "java.checkstyle.configuration": "c:\\Users\\1679887\\Documents\\VSCodeWorkSpace\\fic-001\\google_checks.xml",
-    "java.home": "C:\\temp\\corretto11",
     "java.project.sourcePaths": ["C:\\Users\\1679887\\Documents\\VSCodeWorkSpace\\fic-001"]
 }
